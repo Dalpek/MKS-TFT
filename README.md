@@ -6,6 +6,7 @@
 - User Manual.[click here](https://github.com/makerbase-mks/MKS-TFT/wiki)
 - Thank you very much for DenisShelema's 3.5 inch UI theme.[click here](https://github.com/DenisShelema/MKS-TFT3.5-light-and-dark-themes)
 - Thank you very much for scmanjarrez's 2.4 inch UI theme.[click here](https://github.com/scmanjarrez/MKS-TFT2.4-dark-theme)
+- Thank you very much for Dalpek's 2.4 and 3.2 inch IU theme.[click here](https://github.com/Dalpek/MKS-TFT3.2-Tilex-Theme)
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 # How to buy
